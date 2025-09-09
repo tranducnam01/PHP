@@ -21,16 +21,17 @@
    ```bash
    git clone https://github.com/tranducnam01/PHP.git
    cd PHP
-   ```
-📸 Hình minh họa sau khi chạy code  
+   ``` 
+
+## 📸 Hình minh họa
 
 **Giao diện đăng nhập**  
-<img width="755" height="421" alt="image" src="https://github.com/user-attachments/assets/bb6e1771-b45d-42c7-b5fc-93ca2bd357df" />
+
+![Login](https://github.com/user-attachments/assets/bb6e1771-b45d-42c7-b5fc-93ca2bd357df)
 
 ---
 
 **Giao diện quản lý sản phẩm**  
-<img width="754" height="385" alt="image" src="https://github.com/user-attachments/assets/77b1b9fe-c555-4db2-ad0b-8ba5add08f3c" />
 
+![Product](https://github.com/user-attachments/assets/77b1b9fe-c555-4db2-ad0b-8ba5add08f3c)
 
----
