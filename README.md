@@ -31,10 +31,5 @@
 
 ---
 
-**Giao diện quản lý sản phẩm**  
-
-![Quản lý sản phẩm](https://github.com/user-attachments/assets/2e849a74-6508-46ad-b7ae-13d34c4adcb4)
-
----
 
 
