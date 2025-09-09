@@ -27,15 +27,13 @@
 
 **Giao diện Thống Kê**  
 
-<img width="754" height="370" alt="image" src="https://github.com/user-attachments/assets/c8198484-44df-42af-93a5-9b73cdffea93" />
-
+![Thống kê](https://github.com/user-attachments/assets/c8198484-44df-42af-93a5-9b73cdffea93)
 
 ---
 
 **Giao diện quản lý sản phẩm**  
 
 <img width="754" height="385" alt="image" src="https://github.com/user-attachments/assets/2e849a74-6508-46ad-b7ae-13d34c4adcb4" />
-
 
 ---
 
