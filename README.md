@@ -33,7 +33,8 @@
 
 **Giao diện quản lý sản phẩm**  
 
-<img width="754" height="385" alt="image" src="https://github.com/user-attachments/assets/2e849a74-6508-46ad-b7ae-13d34c4adcb4" />
+![Quản lý sản phẩm](https://github.com/user-attachments/assets/2e849a74-6508-46ad-b7ae-13d34c4adcb4)
 
 ---
+
 
