@@ -25,13 +25,17 @@
 
 ## 📸 Hình minh họa
 
-**Giao diện đăng nhập**  
+**Giao diện Thống Kê**  
 
-![Login](https://github.com/user-attachments/assets/bb6e1771-b45d-42c7-b5fc-93ca2bd357df)
+<img width="754" height="370" alt="image" src="https://github.com/user-attachments/assets/c8198484-44df-42af-93a5-9b73cdffea93" />
+
 
 ---
 
 **Giao diện quản lý sản phẩm**  
 
-![Product](https://github.com/user-attachments/assets/77b1b9fe-c555-4db2-ad0b-8ba5add08f3c)
+<img width="754" height="385" alt="image" src="https://github.com/user-attachments/assets/2e849a74-6508-46ad-b7ae-13d34c4adcb4" />
+
+
+---
 
